@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,epg.utako.moe/jcom.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
