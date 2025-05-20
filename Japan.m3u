@@ -14,8 +14,6 @@ https://45.58.2.147/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35
 http://luong.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.imgur.com/D8lhZCI.png",BS Nippon TV
 http://luong.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 tvg-id="BSSKYPerfecTV.jp" tvg-logo=:"https://upload.wikimedia.org/wikipedia/commons/c/c6/Sky-perfectv_logo_svg.png",BS SKY PerfecTV!
-https://45.58.2.147/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/h20eGKq.png",BS TBS
 http://luong.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512",BS TV Tokyo
@@ -32,14 +30,14 @@ https://45.58.2.147/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35
 
 #EXTINF:-1 tvg-id="",Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 tvg-id="GolfNetwork.jp",Golf Network
+#EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://imgur.com/s6lmfXF",Golf Network
 http://202.60.106.14:8080/1335/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.jp"tvg-logo="https://i.imgur.com/ECnVG5I.png",GSTV
 https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Tokyo)
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="JOAXDTV.jp",Nippon TV [Not 24/7]
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png",Nippon TV [Not 24/7]
 https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
 http://luong.utako.moe/js1/index.m3u8
@@ -72,18 +70,14 @@ http://vthanh.utako.moe/Fuji_TV/index.m3u8
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://i.imgur.com/8qUZ2KR.png",NHK BS1
 https://45.58.2.147/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="NHKBS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
+#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
 http://luong.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-id="NHK BSプレミアム.jp" tvg-logo="https://i.imgur.com/S47zgPe.png",NHK BS Premium
+#EXTINF:-1 tvg-id="NHKBSP.jp" tvg-logo="https://i.imgur.com/S47zgPe.png",NHK BS Premium
 https://45.58.2.147/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="NHKChinese.jp",NHK Chinese Vision
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKEducationaTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 http://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-id="NHKKishouSaigai.jp" tvg-logo="https://i.imgur.com/oWKCBIz.png",NHK Kishou Saigai
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapanHD.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan HD
