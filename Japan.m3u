@@ -33,7 +33,7 @@ https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-logo="https://imgur.com/s6lmfXF.png",Golf Network
 http://202.60.106.14:8080/1335/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.jp"tvg-logo="https://i.imgur.com/ECnVG5I.png",GSTV
-https://japaneast.av.mk.io/mediakindcdn-mediakind/03fbac0e-e140-4c36-909e-99f6963ff4c0/index.qfm/stream_H264.m3u8
+https://japaneast.av.mk.io/mediakindcdn-mediakind/03fbac0e-e140-4c36-909e-99f6963ff4c0/index.qfm/manifest(format=m3u8-cmaf)
 
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Tokyo)
 https://nhk4.mov3.co/hls/nhk.m3u8
