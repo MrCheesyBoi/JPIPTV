@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,epg.utako.moe/jcom.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epg.utako.moe/jcom.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="ActionChannel.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Action_Channel.svg/revision/latest/scale-to-width-down/512",Action Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
