@@ -65,11 +65,9 @@ http://vthanh.utako.moe/mbs/index.m3u8
 https://stream02.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NHKBS.jp" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://i.imgur.com/S47zgPe.png",NHK BS Premium
-https://45.58.2.147/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
 http://vthanh.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK総合 東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-name="NHK総合 東京" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Tokyo)
 https://nhk4.mov3.co/hls/nhk.m3u8
@@ -151,7 +149,7 @@ http://vthanh.utako.moe/disneychan/index.m3u8
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="LaLaTV.jp" tvg-name="LaLaTV" tvg-logo="https://i.imgur.com/APBty36.png" group-title="Kids / Family",LaLa TV
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-name="NHK教育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kids / Family",NHK E
+#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-name="NHK教育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Kids / Family",NHK E
 http://vthanh.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 tvg-id="Pigoo.jp" tvg-name="Pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png" group-title="Kids / Family",Pigoo (NSFW)
 http://vthanh.utako.moe/pigoo/index.m3u8
