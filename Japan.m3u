@@ -53,7 +53,7 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:2
 http://vthanh.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 tvg-id="BS11.jp" tvg-name="BS11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 http://vthanh.utako.moe/BS11/index.m3u8
-#EXTINF:-1,Gaki no Tsukai
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gaki_No_Tsukai_Logo.jpg",Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-id="KBSWorldJapan.jp" tvg-name="KBS京都" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
 http://vthanh.utako.moe/kbs/index.m3u8
@@ -71,7 +71,7 @@ http://vthanh.utako.moe/bsp4k/index.m3u8
 http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Tokyo)
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1,NHK World News (French Subs)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2Il7heHRTzm5DD0Sp7vKuVEw3LWmz4bcPQ&s",NHK World News (French Subs)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
