@@ -121,6 +121,8 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:2
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="GolfNetwork.jp" tvg-name="ゴルフネットワーク" tvg-logo="https://imgur.com/s6lmfXF.png" group-title="Sports",Golf Network
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="GreenChannel.jp" tvg-name="Green Channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg" group-title="Sports",Green Channel
+http://vthanh.utako.moe/green/index.m3u8
 #EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-name="J-SPORTS-1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg" group-title="Sports",JSPORTS 1
 http://vthanh.utako.moe/js1/index.m3u8
 #EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-name="J-SPORTS-2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg" group-title="Sports",JSPORTS 2
@@ -143,6 +145,8 @@ https://stream02.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:2
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-name="スペースシャワーTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg" group-title="Music",Space Shower TV
 http://vthanh.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-name="Cartoon Network Japan" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" group-title="Kids / Family",Cartoon Network Japan
+http://vthanh.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-name="ディズニーチャンネル" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="Kids / Family",Disney Channel Japan
 http://vthanh.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-name="キッズステーション" tvg-logo="https://static.wikia.nocookie.net/animax/images/5/5c/Kids_Station_%28logo%29.png" group-title="Kids / Family",Kids Station
