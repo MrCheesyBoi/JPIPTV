@@ -13,7 +13,7 @@ http://vthanh.utako.moe/bsntv/index.m3u8
 http://vthanh.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-name="BSテレ東" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="Movies & Drama",BS TV Tokyo
 http://vthanh.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 tvg-id="BS10.jp" tvg-name="BS10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png" group-title="Movies & Drama",BS10
+#EXTINF:-1 tvg-id="bs10" tvg-name="BS10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png" group-title="Movies & Drama",BS10
 http://vthanh.utako.moe/bs10/index.m3u8
 #EXTINF:-1 tvg-id="Dlife.jp" tvg-name="Dlife" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dlife_logo.svg/640px-Dlife_logo.svg.png" group-title="Movies & Drama",Dlife
 https://stream02.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
