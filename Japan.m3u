@@ -10,7 +10,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 tvg-id="BS11.jp" tvg-name="BS11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png" group-title="General",BS11
 http://vthanh.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-id="FujiTVNEXT.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Next-fujitv_logo.jpg/revision/latest" group-title="General",Fuji TV NEXT (Might Work)
-https://code.vthanhtivi.pw/getlink/jptv/xPyiMHfxozuDu6vNznDdXA==/playlist.m3u8
+http://rip.hidari.moe/get/jptv/get.php?id=rhKOiZXma2k2EoIaL9RCmg==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gaki_No_Tsukai_Logo.jpg" group-title="General",Gaki no Tsukai
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-id="KBSWorldJapan.jp" tvg-name="KBS京都" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png" group-title="General",KBS
